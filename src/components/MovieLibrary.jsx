@@ -4,11 +4,6 @@ import SearchBar from './SearchBar';
 import AddMovie from './AddMovie';
 import MovieList from './MovieList';
 
-/**
- * Consultei o repositório do Renato Bispo para resolver essa parte.
- * Link: https://github.com/tryber/sd-011-project-movie-cards-library-stateful/pull/162/files
- */
-
 class MovieLibrary extends Component {
   constructor(props) {
     super(props);
